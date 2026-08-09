@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chandan Kumar Nanda</h1>
+<h3 align="center">AI/ML Undergraduate | Python • java • Flask • MySQL • DSA</h3>
 
-<!--
-**9348395366/9348395366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F3460&center=true&width=435&lines=B.Tech+CSE+%28AI%2FML%29+Student;Full+Stack+Developer;Problem+Solver;Seeking+Internship+Opportunities" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 🎓 B.Tech CSE (AI/ML) at *Centurion University, Odisha* (2027)
+- 🔭 Currently building Ai Full-Stack Projects
+- 📫 Reach me at: **chndannanda345@gmail.com*
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 📅 Attendance Management System
+> Web-based attendance system built with Flask & MySQL
+- Teachers mark subject-wise attendance
+- Students view attendance percentage
+- Auto date detection, timetable view
+- *Tech:* Python, Flask, MySQL, HTML, CSS
+- 🔗 [GitHub Repo](https://github.com/gopikrishnasa567-creator/ATTENDENCE_APP)
+
+---
+
+## 📜 Certifications
+
+- ✅ Microsoft — Critical Thinking in the AI Era
+- ✅ Microsoft — Write Effective Prompts
+- ✅ HP LIFE — Machine Learning
+- ✅ HackerRank — Python, Java, SQL
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopikrishnasa567-creator&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopikrishnasa567-creator&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopikrishnasa567-creator&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-krishna-sa-ab0745367)
+
+---
+
+<p align="center">⭐ If you like my projects, give them a star! ⭐</p>
