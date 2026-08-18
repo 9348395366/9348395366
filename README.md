@@ -11,6 +11,9 @@
   <br/><br/>
 
   <!-- Profile Views & Action Badges -->
+  <a href="https://portfolio-new-liart-tau.vercel.app/home" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-VISIT-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="https://drive.google.com/file/d/1RGyfJfIi4QDPdYVmQySLsrC40c9qZ80F/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD-RESUME_PDF-FF0055?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
@@ -29,6 +32,7 @@ Cloud- and AI-focused Computer Science undergraduate with hands-on experience de
 
 * 🎓 **Education:** B.Tech in Computer Science & Engineering at *Centurion University of Technology and Management* (74%)[cite: 1]
 * 📜 **Diploma:** *Adarsha College of Engineering* (76%)[cite: 1]
+* 🌐 **Portfolio Website:** [portfolio-new-liart-tau.vercel.app](https://portfolio-new-liart-tau.vercel.app/home)
 * 💼 **LinkedIn Profile:** [linkedin.com/in/chandan9348395366](https://www.linkedin.com/in/chandan9348395366)[cite: 1]
 * ☁️ **Cloud Infrastructure:** Multi-AZ AWS Deployments, Auto Scaling, Application Load Balancers, IAM, and VPC Security[cite: 1]
 * 🤖 **Specializations:** Industrial Telemetry, Computer Vision / OCR, Predictive Maintenance, and High-Performance APIs[cite: 1]
@@ -68,7 +72,7 @@ Cloud- and AI-focused Computer Science undergraduate with hands-on experience de
 
 * 🏭 **NALCO PlantPulse** — Intelligent telemetry platform featuring glassmorphism command UI, Hindi voice alert integration, and predictive maintenance analysis[cite: 1].
 * 🧮 **AI-Calculator** — Math processing engine using `Tesseract.js` OCR scanning, speech synthesis dictation (`Web Speech API`), and interactive 3D UI[cite: 1].
-* 🎵 **VIBES ON** — Modern music streaming application with advanced track controls and responsive interface[cite: 1].
+* 🎵 **VIBES ON** — Modern music streaming platform with advanced track controls and responsive interface[cite: 1].
 
 ---
 
@@ -88,6 +92,10 @@ Cloud- and AI-focused Computer Science undergraduate with hands-on experience de
 
   ### 🤝 Let's Connect & Collaborate
   
+  <a href="https://portfolio-new-liart-tau.vercel.app/home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00F0FF?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://drive.google.com/file/d/1RGyfJfIi4QDPdYVmQySLsrC40c9qZ80F/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-FF0055?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
